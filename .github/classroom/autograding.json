@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Test 1 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test1.txt output.txt &&  cmp output.txt tests/out/test1.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 2 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test2.txt output.txt &&  cmp output.txt tests/out/test2.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 3 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test3.txt output.txt &&  cmp output.txt tests/out/test3.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 4 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test4.txt output.txt &&  cmp output.txt tests/out/test4.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 5 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test5.txt output.txt &&  cmp output.txt tests/out/test5.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 6 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test6.txt output.txt &&  cmp output.txt tests/out/test6.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 7 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test7.txt output.txt &&  cmp output.txt tests/out/test7.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test 8 ",
+      "setup": "",
+      "run": "timeout 1 ./prettybrackets tests/in/test8.txt output.txt &&  cmp output.txt tests/out/test8.txt",
+      "input": "",
+      "output": "",
+      "comparison": "Exact",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
